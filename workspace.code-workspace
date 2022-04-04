@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\testes prog"
+		},
+		{
+			"name": "TesteESPIDF",
+			"path": "..\\TesteESPIDF"
+		},
+		{
+			"name": "MSP",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"nvs_flash.h": "c"
+		}
+	}
+}
